@@ -1,0 +1,38 @@
+{
+  "format_version": "1.0.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:activator_rail"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#A#",
+      "#B#",
+      "#A#"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:iron"
+        }
+      ],
+      "A": [
+        {
+          "item": "minecraft:stick"
+        }
+      ]
+    },
+      "B": [
+        {
+          "item": "minecraft:redstone_torsh"
+        }
+      ]
+    },
+    "result": {
+      "item": "minecraft:activator_rail"
+      "count": 6
+    }
+  }
+}
